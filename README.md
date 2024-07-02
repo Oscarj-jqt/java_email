@@ -4,6 +4,7 @@ Scénario : Tu es un spécialiste en support IT et chargé de la création de co
 
 L'application les fonctionnalités suivantes : 
 
+
 -générer un email avec la syntaxe suivante : prénom.nom@département.entreprise.com
 
 -déterminer le département (ventes, développement, comptabilité), si aucun laisser vide
